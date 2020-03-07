@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mydashboard';
-  new ="";
+  new ="New Value From github";
 }
